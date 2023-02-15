@@ -1,0 +1,17 @@
+th,
+td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+#img-body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
