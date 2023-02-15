@@ -37,4 +37,4 @@ Archivos dataset de prueba nombre
 
 # Test
 
-En la carpeta evidencyTest se aloja imagenes de las diferentes pruebas realizdas de la libreria creada
+En la carpeta testunitario se aloja imagenes de las diferentes pruebas realizdas de la libreria creada
