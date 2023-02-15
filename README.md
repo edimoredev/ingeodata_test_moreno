@@ -21,7 +21,7 @@ recomendamos que escoja y use un dataset de https://www.kaggle.com/ relacionado 
 - Entorno virtual: virtualenv 20.16.3
 - Nombre del Proyecto: ingeodata-test-moreno
   - Version Django: Django 4.1.6
-  - Archivo requirements.txt: Archivo donde contiene las librerias utilizadas
+  - Archivo requirements.txt: Contenido de las librerias utilizadas
 - Folder estadistica: Es el archivo que contiene la libreria desarrollada para la el proyecto, se uso esta libreria en el entorno virtual
   - ruta ingeodata-test-moreno\env\Lib\site-packages
 
