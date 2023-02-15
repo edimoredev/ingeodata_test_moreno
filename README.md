@@ -37,4 +37,4 @@ Archivos dataset de prueba nombre
 
 # Test
 
-En la carpeta Test se deja evidencia de imagenes las pruebas realizdas a las funciones realizadas en la libreria creada
+En la carpeta evidencyTest se aloja imagenes de las diferentes pruebas realizdas de la libreria creada
