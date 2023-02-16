@@ -25,7 +25,7 @@ recomendamos que escoja y use un dataset de https://www.kaggle.com/ relacionado 
 - Folder estadistica: Es la carpeta que contiene las librerias desarrolladas para la el proyecto, se uso esta libreria en el entorno virtual
   - ruta ingeodata-test-moreno\env\Lib\site-packages
 
-Nota: Se realiza el adjunto del archivo de manera local sin base de datos
+Nota: Se realiza el adjunto del archivo de manera local para esta prueba, en caso de realizarse de alto nivel es recomendable utilizar base de datos para la manupulación de la información y el procesamiento de datos.
 
 # Dataset cargado
 
